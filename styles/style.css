@@ -128,15 +128,18 @@ hr {
 }
 .plan-box1 {
   padding: 40px 25px;
-  background: aliceblue;
+  background: rgba(79, 157, 166, 0.1);
+  border-radius: 5px;
 }
 .plan-box2 {
   padding: 40px 25px;
-  background: beige;
+  background: rgba(255, 89, 89, 0.1);
+  border-radius: 5px;
 }
 .plan-box3 {
   padding: 40px 25px;
-  background: beige;
+  background: #fff4d6;
+  border-radius: 5px;
 }
 /* side image section */
 .side-img {
