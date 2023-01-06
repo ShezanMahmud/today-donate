@@ -204,7 +204,8 @@ hr {
   font-size: 33px;
   text-align: center;
   margin-bottom: 20px;
-  font-family: "Pacifico", cursive;
+  font-family: "Lobster";
+  /* font-family: "Pacifico", cursive; */
 }
 .footer-description {
   color: #6a6868;
